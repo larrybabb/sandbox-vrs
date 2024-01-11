@@ -1,0 +1,3 @@
+[submodule "submodules/gks-common"]
+	path = submodules/gks-common
+	url = https://github.com/larrybabb/example-commons
