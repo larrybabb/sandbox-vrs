@@ -20,7 +20,7 @@ merged.yaml: vrs-source.yaml
 defs:
 	rm -rf defs
 	y2t.py vrs-source.yaml
-	ln -s ../../submodules/gks-common/schema/defs/gks.common defs/gks.common
+	ln -s ../../submodules/example-commons/schema/defs/gks.common defs/gks.common
 
 
 watch:
